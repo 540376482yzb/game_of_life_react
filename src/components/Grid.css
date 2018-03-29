@@ -1,0 +1,6 @@
+.Grid {
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	box-shadow: black 0px 0px 5px;
+}

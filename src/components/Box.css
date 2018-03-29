@@ -1,0 +1,12 @@
+.Box {
+	display: block;
+	width: 14px;
+	height: 14px;
+	background-color: white;
+	border: solid 0.5px #032a33;
+	margin: 0;
+	padding: 0;
+}
+.BoxAlive {
+	background-color: #23b1a5;
+}
